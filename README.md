@@ -1,7 +1,7 @@
 #  About Me
 Hi, I’m @CemKarkiner
 
-# 👀 Interests
+#  Interests
 I’m interested in the development and training of NLP models, with a particular focus on custom solutions tailored to complex and structured datasets, such as those in the legal system. I enjoy exploring new techniques to optimize model performance and efficiency, especially in areas like text classification, legal document analysis, and question-answering tasks that are relevant to legal frameworks.
 
 #  Current Learning
