@@ -16,6 +16,5 @@ I’m looking to collaborate on NLP projects that involve training models on spe
 #  How to Reach Me
 You can reach me through my GitHub profile, or feel free to contact me via email at hcemkarkiner@gmail.com. I'm always open to discussing new projects or ideas, whether you're looking for technical assistance or collaboration.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cemkarkiner&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=cemkarkiner&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cemkarkiner&layout=compact&theme=radical)
