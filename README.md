@@ -1,18 +1,24 @@
-## 👋 About Me  
-Hi, I’m Cem Karkıner. I am senior computer engineering student at Baskent University.
+# 👋 Cem is here.
 
-## Technical Skills
-I specialize in NLP and deep learning, with a strong focus on custom Transformer-based models for complex, structured data.
+##  Data Sciencist / AI Developer | Senior Computer Science Student
+ - I have a strong passion for NLP and deep learning.
+ - Exploring cutting-edge research topics like Multimodal Learning, Self-Supervised Learning, Graph Neural Networks (GNNs), RAGs (Retrieval-Augmented Generation).
+ - CS Student at Başkent University
 
-## 🧠 Interests  
-I'm passionate about researching, building and training NLP models from scratch and applying deep learning to real-world problems such as text classification, question answering, and data-driven analysis.
+## Skills
+### Programming Languages
 
-## 🚧 Currently Working On  
-Developing a custom Transformer architecture for legal NLP tasks including document classification, semantic search, and case law analysis.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />
 
-## 📫 Reach Me  
-📧 hcemkarkiner@gmail.com
+### Frameworks & Libraries
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" /><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" />
 
+## 🚧 Currently Working On
+- Developing a custom Transformer architecture for legal NLP tasks including document classification, semantic search, and case law analysis. (LexAI)
+- A project to captioning images with high accuracy.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cemkarkiner&show_icons=true&theme=radical)
+## Stats
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cemkarkiner&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CemKarkiner&layout=compact&theme=dark) |
+|---|---|
+
 
