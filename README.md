@@ -15,7 +15,6 @@
 
 ## 🚧 Currently Working On
 - Developing a custom Transformer architecture for legal NLP tasks including document classification, semantic search, and case law analysis. (LexAI)
-- A project to captioning images with high accuracy.
 
 ## Stats
 
