@@ -23,5 +23,5 @@
 
 ## Stats
 
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cemkarkiner&show_icons=true&theme=merko) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CemKarkiner&layout=compact&theme=merko)  ![trophy](https://github-profile-trophy.vercel.app/?username=cemkarkiner&theme=onedark&rank=-?)
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cemkarkiner&show_icons=false&theme=merko&rank_icon=github) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CemKarkiner&layout=compact&theme=merko)  ![trophy](https://github-profile-trophy.vercel.app/?username=cemkarkiner&theme=onedark&rank=-?)
 
