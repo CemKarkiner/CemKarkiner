@@ -34,7 +34,7 @@
   <img src="https://profile-counter.glitch.me/cemkarkiner/count.svg" />
 
   <h3>Trophies</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=cemkarkiner&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=cemkarkiner&theme=onedark&rank=-?" />
 
 </div>
 
