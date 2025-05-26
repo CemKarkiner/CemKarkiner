@@ -12,7 +12,7 @@
 
 ### Frameworks & Libraries
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" /><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" /><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40" height="40" /><img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="40" height="40" /><br>
-[![My Skills](https://skillicons.dev/icons?i=aws,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,git,github)](https://skillicons.dev)
 
 
 
