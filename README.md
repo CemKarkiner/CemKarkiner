@@ -1,4 +1,4 @@
-# 👋 Cem is here.
+# 👋 Cem Karkıner
 
 ##  Data Sciencist / AI Developer | Senior Computer Science Student
  - I have a strong passion for NLP and deep learning.
@@ -8,11 +8,11 @@
 ## Skills
 ### Programming Languages
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />
+[![My Skills](https://skillicons.dev/icons?i=python,r,java,cpp,c)](https://skillicons.dev)
 
 ### Frameworks & Libraries
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" /><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" /><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40" height="40" /><img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="40" height="40" /><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" /><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="80" height="30" />
+[![My Skills](https://skillicons.dev/icons?i=aws,docker)](https://skillicons.dev)
 
 
 
