@@ -11,7 +11,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python,r,java,cpp,c)](https://skillicons.dev)
 
 ### Frameworks & Libraries
-[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,aws,docker,git,github&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,aws,docker,git,github,gcp,django&perline=3)](https://skillicons.dev)
 
 
 
