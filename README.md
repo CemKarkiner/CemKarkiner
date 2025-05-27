@@ -32,6 +32,9 @@
   <h3>Trophies</h3>
   <img src="https://github-profile-trophy.vercel.app/?username=cemkarkiner&theme=onedark" />
 
+  <h3>Streaks</h3>
+  <img src="https://streak-stats.demolab.com/?user=cemkarkiner&theme=merko" />
+
 </div>
 
 
