@@ -6,13 +6,16 @@
  - CS Student at Başkent University
 
 ## Skills
-### Programming Languages
 
-[![My Skills](https://skillicons.dev/icons?i=python,r,java,cpp,c)](https://skillicons.dev)
+<div align="center">
 
-### Frameworks & Libraries
-[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,aws,docker,git,github,gcp&perline=4)](https://skillicons.dev)
+  <h3>Programming Languages</h3>
+  <img src="https://skillicons.dev/icons?i=python,r,java,cpp,c" />
 
+  <h3>Frameworks & Libraries</h3>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,aws,docker,git,github,gcp&perline=4" />
+
+</div>
 
 
 
