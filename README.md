@@ -17,12 +17,6 @@
 
 </div>
 
-
-
-
-## 🚧 Currently Working On
-- Developing a custom Transformer architecture for legal NLP tasks including document classification, semantic search, and case law analysis.
-
 ## Stats
 <div align="center">
 
