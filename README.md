@@ -1,9 +1,8 @@
 # 👋 Cem Karkıner
 
-##  Data Sciencist / AI Developer | Senior Computer Science Student
- - I have a strong passion for NLP and deep learning.
+##  Data Scientist | Cloud Software Engineer
+ - I have a strong passion for NLP, deep learning and Cloud Computing.
  - Exploring cutting-edge research topics like Multimodal Learning, Self-Supervised Learning, Graph Neural Networks (GNNs), RAGs (Retrieval-Augmented Generation).
- - CS Student at Başkent University
 
 ## Skills
 
