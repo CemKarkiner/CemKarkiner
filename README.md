@@ -2,7 +2,7 @@
 
 ##  Data Scientist | Cloud Software Engineer
  - I have a strong passion for NLP, deep learning and Cloud Computing.
- - Exploring cutting-edge research topics like Multimodal Learning, Self-Supervised Learning, Graph Neural Networks (GNNs), RAGs (Retrieval-Augmented Generation).
+ - Exploring cutting-edge research topics like Multimodal Learning, Self-Supervised Learning, Graph Neural Networks (GNNs).
 
 ## Skills
 
