@@ -1,8 +1,8 @@
 # 👋 Cem Karkıner
 
 ##  Data Scientist | Cloud Software Engineer
- - I have a strong passion for NLP, deep learning and Cloud Computing.
- - Exploring cutting-edge research topics like Multimodal Learning, Self-Supervised Learning, Graph Neural Networks (GNNs).
+ - I have graduated from Başkent University, Department of Computer Engineering.
+ - I'm particularly interested in Natural Language Processing, Deep Learning, and CI/CD.
 
 ## Skills
 
