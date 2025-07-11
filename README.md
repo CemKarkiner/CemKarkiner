@@ -12,7 +12,7 @@
   <img src="https://skillicons.dev/icons?i=python,r,java,cpp,c" />
 
   <h3>Frameworks & Libraries</h3>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,aws,docker,git,github,gcp&perline=4" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,aws,docker,git,github,gcp,mongo&perline=4" />
 
 </div>
 
