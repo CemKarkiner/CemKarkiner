@@ -9,10 +9,10 @@
  
 ## Skills
   <h3>Programming Languages</h3>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,r" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,r,ts" />
 
   <h3>Frameworks & Libraries</h3>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,aws,docker,git,github,gcp,mongo&perline=4" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,aws,docker,git,github,gcp,mongo,figma&perline=5" />
 
 </div>
 
