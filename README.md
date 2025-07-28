@@ -1,9 +1,12 @@
+<div align="center">
+   
 # 👋 Cem Karkıner
 
-##  Data Scientist | Cloud Software Engineer
- - I have graduated from Başkent University, Department of Computer Engineering.
- - I'm particularly interested in Natural Language Processing, Deep Learning, and CI/CD.
+## Data Scientist \| Cloud Software Engineer  
+I have graduated from Başkent University, Department of Computer Engineering.<br>
+I'm particularly interested in Natural Language Processing, Deep Learning, and CI/CD.
 
+</div>
 
 <div align="center">
  
