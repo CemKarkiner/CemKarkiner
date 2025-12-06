@@ -22,13 +22,6 @@ I'm particularly interested in Natural Language Processing, Deep Learning, and d
 
 <div align="center">
 
- ## Stats
-  <h3>Main Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=cemkarkiner&show_icons=false&theme=great-gatsby&rank_icon=github" />
-
-  <h3>Languages</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CemKarkiner&layout=compact&theme=great-gatsby" />
-
   <h3>Trophies</h3>
   <img src="https://github-profile-trophy.vercel.app/?username=cemkarkiner&theme=onedark" />
 
