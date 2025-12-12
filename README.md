@@ -19,12 +19,6 @@ I'm particularly interested in natural language processing (NLP), deep learning,
 
 </div>
 
-
-<div align="center">
-
-  <h3>Trophies</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=cemkarkiner&theme=onedark" />
-
 </div>
 
 
