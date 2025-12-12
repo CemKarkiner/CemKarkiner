@@ -4,7 +4,7 @@
 
 ## Data Scientist \| Cloud Software Engineer  
 I have graduated from Başkent University, Department of Computer Engineering.<br>
-I'm particularly interested in Natural Language Processing, Deep Learning, and developing serverless applications.
+I'm particularly interested in natural language processing (NLP), deep learning, and developing serverless applications.
 
 </div>
 
