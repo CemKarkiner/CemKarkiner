@@ -15,7 +15,7 @@ I'm particularly interested in natural language processing (NLP), deep learning,
   <img src="https://skillicons.dev/icons?i=python,java,cpp,c,r,ts" />
 
   <h3>Frameworks & Libraries</h3>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,gcp,mongo,pytorch,tensorflow,git,github,figma&perline=5" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,aws,docker,kubernetes,spring,hibernate,mongo,git&perline=3" />
 
 </div>
 
