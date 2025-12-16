@@ -3,7 +3,7 @@
 # 👋 Cem Karkıner
 
 ## Data Scientist \| Cloud Software Engineer  
-I'm particularly interested in natural language processing (NLP), deep learning, and developing serverless applications.
+I'm particularly interested in natural language processing (NLP), deep learning, and building serverless applications using AWS Lambda.
 
 </div>
 
