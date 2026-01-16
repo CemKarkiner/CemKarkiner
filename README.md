@@ -1,6 +1,6 @@
 <div align="center">
    
-# 👋 Cem Karkıner
+# Cem Karkıner
 
 ## Software Engineer  
 I'm particularly interested in natural language processing (NLP), deep learning, and building serverless applications using AWS Lambda.
