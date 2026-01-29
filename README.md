@@ -1,8 +1,11 @@
 <div align="center">
-   
-# Cem Karkıner
 
-## Software Engineer  
+   # Cem Karkıner
+
+## Software Engineer 
+</div> 
+<div>
+My current field is Back-end development with Java.
 I'm particularly interested in natural language processing (NLP), deep learning, and building serverless applications using AWS Lambda.
 
 </div>
